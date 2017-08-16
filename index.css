@@ -1,21 +1,59 @@
 body {
-	background-color: #CCCCFF; 
+	background-color:lightgrey; 
 }
 h2 {
 	color: red ;
-	text-align: left;
+	text-align: left; 
+    font-family: cursive;
 }
+
 p {
 	font-family: cursive;
-	font-size: 20px;
+	font-size: 15px;
+	color: black;
 }
+
 IMG.displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto }\
+    margin-right: auto; }
    
-div.Stemex{ height: 50px; 
-width: 40%; 
 
+h1 {
+	font-family:cursive; 
+	text-align:center;
+	color: red;
+}
 
+#stemex img{
+	width: 40%
+    }
+ IMG.stem{ display: block;
+ margin-right: auto;
+ margin-left: 5cm;
+ width: 20% }
+
+ IMG.title{display: block;
+ margin-right: auto;
+ margin-left: auto;}
+
+ #sondos p {margin-right: 5cm;}
+
+li{color: blue; 
+font-style: cursive; 
+text-decoration: underline;
+}
+
+.aboutus p{color:blue; 
+ }
+
+ .myparagraph{
+ 	margin-left: 10%;
+ 	margin-right: 10%;
+ }
+
+#mycontainer{
+
+	width: 750px;
+	height: 100%;
 }
